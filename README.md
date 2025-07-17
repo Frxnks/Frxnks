@@ -10,9 +10,9 @@
 
 <br><br>
 - :school: I am a student at the University of Valparaiso.
+- :student: 4th year of computer engineering
 - :technologist: I like to solve problems with architectural designs and code.
 - :computer: I am interested in databases, AI, architecture design, and more.
-- :student: I am currently perfecting the principles of design architecture.
 - :nerd_face: Always learning new things.
 <br>
 

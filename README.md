@@ -8,6 +8,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<br><br>
 - :school: I am a student at the University of Valparaiso.
 - :student: 4th year of computer engineering
 - :technologist: I like to solve problems with architectural designs and code.
